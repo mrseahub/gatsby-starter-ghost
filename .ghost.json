@@ -5,6 +5,7 @@
   },
   "production": {
     "apiUrl": "https://airvat-test.digitalpress.blog",
-    "contentApiKey": "77c253b1cc32a98e486172bbfd"
+    "contentApiKey": "77c253b1cc32a98e486172bbfd",
+    "siteUrl": "https://delicate-banoffee-ca3588.netlify.app"
   }
 }
